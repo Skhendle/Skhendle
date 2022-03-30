@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/sandile-khendle-3431b1142/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Python Mantra Called 
+- ⚡ Fun fact: ... Python Has Mantra Called: 
 
 # The Zen Of Python
 
