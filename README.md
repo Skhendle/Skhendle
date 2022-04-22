@@ -10,7 +10,6 @@ I have worked on multiple projects from development to production:sweat_smile: :
 Currently Planning To Contribute In The Flutter And FastAPI frameworks 
 
 **How I Keep My Skills Sharp:**
-
 I Use The Internet :blush:... Mostly [Stack Overflow](https://stackoverflow.com/users/9493356/skhendle) :wink: or [Grepper](https://www.codegrepper.com/profile/itchy-ibis-mob1ene7q4ls) :wink: for general issues e.g (How to convert int to string python/dart/js):nerd_face::nerd_face:
 
 Here are some ideas to get you started:
